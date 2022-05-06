@@ -1,4 +1,0 @@
-id,name,address
-1,Sam,baroda
-2,Aamir,mumbai
-3,AA,pune
